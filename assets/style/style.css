@@ -1,0 +1,43 @@
+.container{
+    max-width: 500px;
+    height: 600px;
+    padding-right: 0;
+    padding-left: 0;
+    
+
+}
+
+.row{
+    text-align: center;
+    margin: auto;
+    margin: 20px;
+    height: 20px;
+    
+}
+body{
+    background-color:rgb(138, 182, 248);
+
+    
+}
+#input{
+    border: 2px solid black ;
+    width: 100%;
+    margin-bottom: 30px;
+    margin-top: 5px ;
+    padding: 25px;
+}
+
+.card{
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+button{
+    padding: 20px;
+    font-size: 24px;
+    background-color: black;
+}
+
+.toto{
+  height: 5rem;
+}
